@@ -2,9 +2,11 @@
 Thesis project for my MS in Data Science, "Using ML to Aid in SBA Loan Approvals"
 
 Objective
+
 The goal of this project will be to create a machine learning model that will aid a banker in deciding if a business owner should or should not be approved for a Small Business Administration (SBA) loan based on the likelihood the loan will go into default.
 
 Background
+
 Small Business Administration Backed Loans, or SBA loans for short, is a lending product designed to help small business owners fund, expand, or continue the operations of their businesses (1). This program allows the federal government to guarantee a loan for the bank to offer to a small business owner. This is an important, win-win-win, program. It allows the federal government to directly invest into new businesses and the growth they bring. This program builds the bank’s confidence to lend to a group that would normally be too risky to lend to thus securing itself a whole new client base. Finally, this allows the average business owner, who doesn’t have a rich family or investor friends, to secure the financing they need to make their dreams come to fruition.
 
 The use of a model like this could be twofold. For the banker to have a model to use to quickly estimate if a business owner is likely to pay on their loan and not go into default. I think this model could also be helpful in the hands of the business owner. Preparing to secure an SBA loan can be intimidating. The business owner needs to assemble a business plan, current financials, projected financials and other items to persuade the banker that you would grow your business and be able to pay it back faithfully (2). This model could then be used to help test if the business owner has a compelling case before meeting with the banker to secure the SBA loan.
